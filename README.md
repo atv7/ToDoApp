@@ -1,2 +1,2 @@
 # ToDoApp
-ToDoApp fullstack application with FastAPI
+Учебный проект, целью которого было разработать фуллстак приложение, используя FastAPI. Была использована PostgreSQL в качестве базы данных, jwt для авторизации.
